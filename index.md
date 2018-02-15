@@ -1,8 +1,3 @@
----
-title: Robbert Hendrickx
----
-
-
 ## Welkom op mijn online curriculum vitae
 
 Ik ben Robbert Hendrickx, student [@Hogeschool UCLL - Toegepaste Informatica](https://www.ucll.be/studeren/professionele-bachelors/toegepaste-informatica).
