@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welkom op mijn online curriculum vitae
 
-You can use the [editor on GitHub](https://github.com/RobbertHendrickx-r0677561/E-Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ik ben Robbert Hendrickx, student [@Hogeschool UCLL - Toegepaste Informatica](https://www.ucll.be/studeren/professionele-bachelors/toegepaste-informatica).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Op deze website kan je meer te weten komen over de professionele kant van mijn leven.
+
+
 
 ### Markdown
 
