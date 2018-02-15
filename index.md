@@ -1,6 +1,5 @@
 ---
 title: Robbert Hendrickx
-layout: post
 ---
 
 
